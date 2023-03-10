@@ -1,0 +1,17 @@
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\Jangme.deps.json
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\Jangme.runtimeconfig.json
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\Jangme.dll
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\Jangme.pdb
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.csproj.AssemblyReference.cache
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.AssemblyInfoInputs.cache
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.AssemblyInfo.cs
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.csproj.CoreCompileInputs.cache
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.csproj.CopyComplete
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.dll
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\refint\Jangme.dll
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.pdb
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\Jangme.genruntimeconfig.cache
+C:\Users\mdr42\OneDrive\Attachments\Documents\Godot\jangme\.godot\mono\temp\obj\Debug\ref\Jangme.dll

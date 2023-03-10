@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkJLdOKltz+MBjcR7p1GrLt8dp2fFHCHwJeyC5jFr041N6x4OCOWQ//qcej/4YrsN3NXgs71+zrfc0DNPbwwjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdr42\\OneDrive\\Attachments\\Documents\\Godot\\jangme\\Jangme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdr42\\.nuget\\packages\\godot.sourcegenerators\\4.0.0\\godot.sourcegenerators.4.0.0.nupkg.sha512",
+    "C:\\Users\\mdr42\\.nuget\\packages\\godotsharp\\4.0.0\\godotsharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\mdr42\\.nuget\\packages\\godotsharpeditor\\4.0.0\\godotsharpeditor.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
